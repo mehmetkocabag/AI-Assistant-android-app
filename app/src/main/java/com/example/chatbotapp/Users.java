@@ -1,10 +1,5 @@
 package com.example.chatbotapp;
 
-import com.example.chatbotapp.network.OpenAiRequest;
-
-import java.util.ArrayList;
-import java.util.List;
-
 public class Users {
     public String name;
     public String email;
@@ -19,10 +14,6 @@ public class Users {
 
     public String getName() {
         return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
     }
 
     public String getEmail() {
