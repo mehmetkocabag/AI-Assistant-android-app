@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Chat Bot App</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="ChatBotApp">Chat Bot App</string>
+    <string name="LoginNow">Login Now</string>
+    <string name="registerNow">Register Now</string>
+    <string name="name">Name</string>
+    <string name="Welcome">Signed in as,\n</string>
+    <string name="startChatting">Start Chatting</string>
+    <string name="signedIn">"signed in as "</string>
+    <string name="ChangePass">Change Your Password</string>
+    <string name="confirmnewpassword">Confirm New Password</string>
+    <string name="newPassword">New Password</string>
+    <string name="currentpassword">Current Password</string>
+    <string name="ChangePassw">Change Password</string>
+    <string name="goBack">Go Back</string>
+    <string name="account">Account</string>
+    <string name="logout">Logout</string>
+    <string name="changeName">Change Nickname</string>
+    <string name="mailAdd">User email address,</string>
+    <string name="backtomenu">Back to menu</string>
+    <string name="currentName">Current Name</string>
+    <string name="newName">New Name</string>
+    <string name="aiTyping">AI typing</string>
+</resources>
